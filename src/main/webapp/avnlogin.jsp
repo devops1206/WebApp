@@ -170,7 +170,7 @@ position: absolute;
 <section class="wlp-login-message-content">
 <p><b>
 <i>
-<font color="darkorange">Help Desk - Test Changes</font>
+<font color="darkorange">Help Desk</font>
 </i>
 </b>
 <br><br>
@@ -185,7 +185,6 @@ The Mars Help Desk, can assist with issues and concerns regarding:
 -Fax machines and codes, headsets, conference calls, speaker phone rental.<br>
 -Call accounting and billling - Telephone bill login.<br>
 -We also manage plans, orders, service, billing and trouble shooting for college provided cellphones and smartphones.<br><br>
--Make changes to the original file - Kailash.<br>
 <i>
 <font color="darkorange"> CONTACT US</font>
 </i>
