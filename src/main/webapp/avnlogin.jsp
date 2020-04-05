@@ -4,7 +4,7 @@
 <html >
 <head>
   <meta charset="UTF-8">
-  <title>AVNLogin</title>
+  <title>AVNLogin - Changed</title>
   
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
 
@@ -170,7 +170,7 @@ position: absolute;
 <section class="wlp-login-message-content">
 <p><b>
 <i>
-<font color="darkorange">Help Desk</font>
+<font color="darkorange">Help Desk - Changed</font>
 </i>
 </b>
 <br><br>
