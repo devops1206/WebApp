@@ -163,9 +163,9 @@ position: absolute;
 <div id="headlinks">
 <p style="text-align:right"><a href="">Business</a>&#160;&#160;<a href="">Contact Us</a></p>
 </div><br>
-<img src="logopost.jpg" alt="HTML5 Icon" style="width:325px;height:185px;position:absolute;left:60px;top:10px;">
+<img src="logo.JPG" alt="HTML5 Icon" style="width:325px;height:185px;position:absolute;left:60px;top:10px;">
 <b>
-<h1 style="color:#968370;font-size: 350%;position:absolute;left:460px;top:80px;">MARSLANDER</h1></b>
+<h1 style="color:#968370;font-size: 350%;position:absolute;left:460px;top:80px;">MARSLANDER - PHOENIX</h1></b>
 <br><br><br>
 <section class="wlp-login-message-content">
 <p><b>
@@ -180,11 +180,11 @@ The Mars Help Desk, can assist with issues and concerns regarding:
 <font color="orange"> Troubleshooting problems</font>
 </i>
 <p>
--Moves, adds and changes to telephone equipment or service.<br>
+-Moves, adds and changes to telephone or mobile service.<br>
 -New service, voicemail, caller menus, special calling features and plans, caller ID, music on hold, international dialing.<br>
 -Fax machines and codes, headsets, conference calls, speaker phone rental.<br>
 -Call accounting and billling - Telephone bill login.<br>
--We also manage plans, orders, service, billing and trouble shooting for college provided cellphones and smartphones.<br><br>
+-We also manage plans, orders, service, billing and trouble shooting for cellphones and smartphones.<br><br>
 <i>
 <font color="darkorange"> CONTACT US</font>
 </i>
@@ -192,7 +192,7 @@ The Mars Help Desk, can assist with issues and concerns regarding:
 <ul style="margin-left:20px">
 <li>Call 123-456-7890</li>
 <li>
-<a href="mailto:compliant@devopsunion.com">Email</a>
+<a href="mailto:compliant@marslander.com">Email</a>
 </li><br>
  Wholesale Customer Care:
 <br>
@@ -213,8 +213,8 @@ The Mars Help Desk, can assist with issues and concerns regarding:
    <div class="cta"><a href="">Forgot your password?</a></div>
    </div>
    <p class="text-center">
-   <span id="fullyear">2017</span>
-   &#169; DEVOPS UNION. All Rights Reserved.<br>
+   <span id="fullyear">2020</span>
+   &#169; MARSLANDER CORP. All Rights Reserved.<br>
    | India | Singapore | Belgium | USA |
   </p>
  </body>
