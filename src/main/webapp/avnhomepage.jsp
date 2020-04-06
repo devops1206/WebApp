@@ -3,7 +3,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-<title>This is Chicago DevOps Bootcamp - Changed</title>
+<title>Marslander - Phoenix</title>
 <style>
 body{
 background-color: #f9f8f7;
@@ -41,7 +41,7 @@ color:white;
 <h1 align="left" style="font-size: medium;color: #4d4d69;">Hi Guest..</h1>
 <h2 align="left" style="position: absolute;top: 80px;left: 328px;color: #4d4d69;">WELCOME TO YOUR ACCOUNT OVERVIEW</h2><br>
 <section class="wlp-login-message-content" style="left: 120px;top: 210px;">
-<b><p style="text-align: center;font-size: 25px;">DIGITAL TV</p></b>
+<b><p style="text-align: center;font-size: 25px;">MOBILE</p></b>
 <a href="" style="color: white;font-size: 20px;position: absolute;left:65px;">Create</a><br>
 <a href="" style="color: white;font-size: 20px;position: absolute;left:69px;">View</a><br>
 <a href="" style="color: white;font-size: 20px;position: absolute;left:52px;">Configure</a><br>
@@ -67,7 +67,7 @@ color:white;
 </div>
 <div class="text-center">
    <span id="fullyear">2017</span>
-   &#169; DEVOPS UNION. All Rights Reserved.<br>
+   &#169; MARSLANDER CORP. All Rights Reserved.<br>
    | India | Singapore | Belgium | USA |
   </div>
   </form>
